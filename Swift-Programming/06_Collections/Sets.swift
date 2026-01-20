@@ -1,0 +1,3 @@
+var s:Set=[1,2,3]
+s.insert(4)
+print(s)
